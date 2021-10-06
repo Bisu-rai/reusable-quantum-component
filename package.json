@@ -1,0 +1,7 @@
+{
+  "name": "reusable-quantum-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Quantum-IT-Solutions/reusable-quantum-component.git",
+  "license": "MIT"
+}
